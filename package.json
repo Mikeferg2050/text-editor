@@ -1,3 +1,6 @@
+"scripts": {
+  "start": "./server/routes/server.js"
+}
 {
   "name": "jate",
   "version": "1.0.0",
